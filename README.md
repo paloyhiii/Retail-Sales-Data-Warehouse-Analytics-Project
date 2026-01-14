@@ -60,7 +60,7 @@ Steps:
 
 ## ETL & Data Preparation (Tableau Prep Builder)
 
-📌 *Insert Tableau Prep workflow screenshot here*
+![](ETL.jpeg) 
 
 ---
 
@@ -75,7 +75,8 @@ Two dashboards were created to visualize business insights:
 2. **RFM Dashboard**
    - Customer segmentation based on Recency, Frequency, and Monetary value
 
-📌 *Insert Tableau Dashboard screenshots here*
+![](OVerview.jpeg) 
+![](RFM.jpeg) 
 
 > Dashboard development was completed as part of the group collaboration.
 
