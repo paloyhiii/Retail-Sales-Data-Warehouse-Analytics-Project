@@ -74,6 +74,8 @@ Two dashboards were created to visualize business insights:
    - Customer segmentation based on Recency, Frequency, and Monetary value
 
 ![](OVerview.jpeg) 
+
+
 ![](RFM.jpeg) 
 
 > Dashboard development was completed as part of the group collaboration.
