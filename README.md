@@ -69,12 +69,11 @@ Two dashboards were created to visualize business insights:
    - Sales trends
    - Revenue and profit KPIs
    - Performance by product, store, and region
+  
+![](Overview.jpeg) 
 
 2. **RFM Dashboard**
    - Customer segmentation based on Recency, Frequency, and Monetary value
-
-![](OVerview.jpeg) 
-
 
 ![](RFM.jpeg) 
 
