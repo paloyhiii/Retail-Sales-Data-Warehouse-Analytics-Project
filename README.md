@@ -39,7 +39,7 @@ A **Star Schema** was selected for this Data Mart because it is:
 - Optimized for analytical queries
 - Well-suited for BI dashboards
 
-![](Star_Schema.png) 
+![](Star_Schema.jpeg) 
 
 ---
 
