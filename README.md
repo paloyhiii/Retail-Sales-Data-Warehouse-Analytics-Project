@@ -48,13 +48,11 @@ The database was generated in **Microsoft SQL Server (localhost)** using the dat
 
 - **Database Name**: `RetailDataMart`
 
-Steps:
 1. Generated database tables from the physical diagram
 2. Created fact and dimension tables
 3. Defined primary keys and foreign key constraints
 4. Imported data from Excel files into SQL Server using the Import Wizard
 
-📌 SQL scripts for database creation are available in the `/sql/` folder.
 
 ---
 
